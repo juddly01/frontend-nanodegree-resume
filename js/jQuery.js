@@ -8827,4 +8827,4 @@ if ( typeof window === "object" && typeof window.document === "object" ) {
 }
 
 })( window );
-$("#main").append(jordan oldrisge);
+$("#main").append(jordan oldridge);
